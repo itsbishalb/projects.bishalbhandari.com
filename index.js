@@ -14,11 +14,11 @@ Projects = [
         sourceCode:"https://github.com/itsbishalb/Password-Generator"
     },
     {
-        name: "Password Generator",
-        img: "../data/images/password-generator.png",
-        desc:"My first javascript project and i am currently using this to create safe password for my online accounts. In future i am planning on making this more user friendly by letting them choose the characters that they want in password.",
-        demoUrl:"https://projects.bishalbhandari.com/password-generator/",
-        sourceCode:"https://github.com/itsbishalb/Password-Generator"
+        name: "Reversi Board Game",
+        img: "../data/images/reversi.png",
+        desc:"I rewrote my java code for university coursework in javascript. Reversi is a strategy board game for two players, played on an 8×8 uncheckered board. I am planning on implementing simple AI in future if i get back to the project",
+        demoUrl:"https://projects.bishalbhandari.com/reversi",
+        sourceCode:"https://github.com/itsbishalb/Reversi-Javascript"
     }
 ]
 
