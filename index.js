@@ -3,7 +3,7 @@ Projects = [
         name: "University Grade Calculator",
         img: "../data/images/grade-calculator.png",
         desc:"Created with React.js, this is my first react project. I wanted to make this calculator so i cancalculate my semester and year average grade. The calculator works as expected but it haven't got all the features i wanted yet and will be working on creating those features and possibly have own backend as well to store past grade.",
-        demoUrl:"https://projects.bishalbhandari.com/university-grade-calculator/",
+        demoUrl:"https://projects.bishalbhandari.com/grade-calculator/",
         sourceCode:"https://github.com/itsbishalb/grade-calculator"
     },
     {
