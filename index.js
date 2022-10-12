@@ -19,6 +19,13 @@ Projects = [
         desc:"I rewrote my java code for university coursework in javascript. Reversi is a strategy board game for two players, played on an 8×8 uncheckered board. I am planning on implementing simple AI in future if i get back to the project",
         demoUrl:"https://projects.bishalbhandari.com/reversi",
         sourceCode:"https://github.com/itsbishalb/Reversi-Javascript"
+    },
+    {
+        name: "Dead Pixel Test",
+        img: "../data/images/dead-pixel-test.png",
+        desc:"Simple JS script which shows different colour on screen which makes it easier for user to test for any dead pixels.",
+        demoUrl:"https://projects.bishalbhandari.com/dead-pixels-test/",
+        sourceCode:"https://github.com/itsbishalb/dead-pixels-test"
     }
 ]
 
